@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+  
+   
+section {
+    padding: 20px;
+}
+
+.contact-links {
+    list-style-type: none;
+    padding: 0;
+
+}
+.contact-links li {
+    margin-bottom: 10px;
+
+}
+.social-midia {
+    margin-top: 20px;
+
+}
+.social-midia a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #fff;
+    background-color: #333;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 58px;
+
+}
